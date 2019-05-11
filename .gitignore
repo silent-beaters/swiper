@@ -1,0 +1,6 @@
+.venv/
+*.pyc
+__pycache__/
+*.sqlite3
+medias/
+.qiniu_pythonsdk_hostscache.json
